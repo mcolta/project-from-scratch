@@ -12,4 +12,10 @@ or
 yarn build
 ```
 
-to bundle your application
+to bundle your application.
+
+To start the application, run
+
+```bash
+npm run serve
+```
